@@ -2,7 +2,7 @@
   <div class="form">
     <b-form @submit="onSubmit" @reset="onReset" v-if="show">
       <b-form-group
-        id="input-group-1"
+      id="input-group-1"
         label="Nome:"
         label-for="input-1"
         
@@ -55,7 +55,7 @@
           food: null,
           checked: []
         },
-        foods: [{ text: 'Selecione', value: null }, 'Escolhida', 'Morte Súbita', 'A Gangue: Uma noite de sangue', 'Sangue de Pelicano'],
+        foods: [{ text: 'Selecione', value: null }, 'Escolhida', 'Morte Súbita 2', 'A Gangue: Uma noite de sangue', 'Sangue de Pelicano'],
         show: true
       }
     },

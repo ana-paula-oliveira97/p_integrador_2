@@ -44,3 +44,13 @@ body {
 .trailer {
   text-align: center;
 }
+
+.form {
+  box-shadow: 1px 1px;
+  background: white;
+  border-radius: 1px;
+  background-color: white;
+  width: 650px;
+  margin: 0 auto;
+  padding: 5%;
+}
