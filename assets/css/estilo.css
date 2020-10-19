@@ -2,3 +2,12 @@ body {
   color: white;
   background-color: #020101;
 }
+
+.rodape {
+  background-color: black;
+  color: white;
+}
+
+.map {
+  display: flex;
+}
