@@ -2,47 +2,25 @@
   {
     "name": "about",
     "path": "/about",
-<<<<<<< HEAD
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_17799997"
-=======
-    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_70abef19"
->>>>>>> ea1443fbf837a5f43fdb8e17ee74ced5a7afd48b
+    "chunkName": "pages/about"
   },
   {
     "name": "poster",
     "path": "/poster",
-<<<<<<< HEAD
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\poster.vue",
-    "chunkName": "pages/poster",
-    "_name": "_04242db3"
-=======
-    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\poster.vue",
-    "chunkName": "pages/poster",
-    "_name": "_5d86ef1e"
->>>>>>> ea1443fbf837a5f43fdb8e17ee74ced5a7afd48b
+    "chunkName": "pages/poster"
   },
   {
     "name": "tickets",
     "path": "/tickets",
-<<<<<<< HEAD
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\tickets.vue",
-    "chunkName": "pages/tickets",
-    "_name": "_361f7b71"
-=======
-    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\tickets.vue",
-    "chunkName": "pages/tickets",
-    "_name": "_0c127873"
->>>>>>> ea1443fbf837a5f43fdb8e17ee74ced5a7afd48b
+    "chunkName": "pages/tickets"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_3731745c"
+    "chunkName": "pages/index"
   }
 ]
