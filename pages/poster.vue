@@ -15,7 +15,9 @@
           seja tarde demais.
         </b-card-text>
         <template v-slot:footer>
-          <b-button variant="success">Ver Mais </b-button>
+          <b-button variant="success"
+            ><NuxtLink to="/escolhida">Ver Mais </NuxtLink></b-button
+          >
         </template>
       </b-card>
 
@@ -33,7 +35,9 @@
           noite de estreia
         </b-card-text>
         <template v-slot:footer>
-          <b-button variant="success">Ver Mais </b-button>
+          <b-button variant="success"
+            ><NuxtLink to="/morte_subita_2">Ver Mais </NuxtLink></b-button
+          >
         </template>
       </b-card>
 
@@ -50,7 +54,9 @@
           receber apoio e compreensão.
         </b-card-text>
         <template v-slot:footer>
-          <b-button variant="success">Ver Mais </b-button>
+          <b-button variant="success"
+            ><NuxtLink to="/a_gangue">Ver Mais </NuxtLink>
+          </b-button>
         </template>
       </b-card>
 
@@ -67,7 +73,9 @@
           mãe fica determinada a ajudá-la.
         </b-card-text>
         <template v-slot:footer>
-          <b-button variant="success">Ver Mais </b-button>
+          <b-button variant="success"
+            ><NuxtLink to="/sangue_de_pelicano">Ver Mais </NuxtLink></b-button
+          >
         </template>
       </b-card>
     </b-card-group>

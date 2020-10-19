@@ -17,10 +17,10 @@
     </p>
 
     <p>
-      Uma mulher que treina cavalos policiais quer mais um filho e então adota
-      uma criança, uma menina de 5 anos gravemente traumatizada. Quando a menina
-      mostra comportamento violento e antissocial, sua nova mãe fica determinada
-      a ajudá-la.
+      Sinopse: Uma mulher que treina cavalos policiais quer mais um filho e
+      então adota uma criança, uma menina de 5 anos gravemente traumatizada.
+      Quando a menina mostra comportamento violento e antissocial, sua nova mãe
+      fica determinada a ajudá-la.
     </p>
     <div class="trailer">
       <iframe
