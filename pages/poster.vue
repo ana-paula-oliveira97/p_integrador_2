@@ -15,7 +15,7 @@
           seja tarde demais.
         </b-card-text>
         <template v-slot:footer>
-          <b-button variant="success">Reserve seu lugar </b-button>
+          <b-button variant="success">Ver Mais </b-button>
         </template>
       </b-card>
 
@@ -33,7 +33,7 @@
           noite de estreia
         </b-card-text>
         <template v-slot:footer>
-          <b-button variant="success">Reserve seu lugar </b-button>
+          <b-button variant="success">Ver Mais </b-button>
         </template>
       </b-card>
 
@@ -50,7 +50,7 @@
           receber apoio e compreensão.
         </b-card-text>
         <template v-slot:footer>
-          <b-button variant="success">Reserve seu lugar </b-button>
+          <b-button variant="success">Ver Mais </b-button>
         </template>
       </b-card>
 
@@ -67,7 +67,7 @@
           mãe fica determinada a ajudá-la.
         </b-card-text>
         <template v-slot:footer>
-          <b-button variant="success">Reserve seu lugar </b-button>
+          <b-button variant="success">Ver Mais </b-button>
         </template>
       </b-card>
     </b-card-group>

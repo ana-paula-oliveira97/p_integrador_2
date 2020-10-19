@@ -3,8 +3,13 @@ import Router from 'vue-router'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
+const _2eb4ba67 = () => interopDefault(import('..\\pages\\a_gangue.vue' /* webpackChunkName: "pages/a_gangue" */))
 const _17799997 = () => interopDefault(import('..\\pages\\about.vue' /* webpackChunkName: "pages/about" */))
+const _2e9f9379 = () => interopDefault(import('..\\pages\\debuts.vue' /* webpackChunkName: "pages/debuts" */))
+const _6c70b44c = () => interopDefault(import('..\\pages\\escolhida.vue' /* webpackChunkName: "pages/escolhida" */))
+const _849c5650 = () => interopDefault(import('..\\pages\\morteS.vue' /* webpackChunkName: "pages/morteS" */))
 const _04242db3 = () => interopDefault(import('..\\pages\\poster.vue' /* webpackChunkName: "pages/poster" */))
+const _28c1e4bd = () => interopDefault(import('..\\pages\\sangue.vue' /* webpackChunkName: "pages/sangue" */))
 const _361f7b71 = () => interopDefault(import('..\\pages\\tickets.vue' /* webpackChunkName: "pages/tickets" */))
 const _3731745c = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
@@ -25,13 +30,33 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
+    path: "/a_gangue",
+    component: _2eb4ba67,
+    name: "a_gangue"
+  }, {
     path: "/about",
     component: _17799997,
     name: "about"
   }, {
+    path: "/debuts",
+    component: _2e9f9379,
+    name: "debuts"
+  }, {
+    path: "/escolhida",
+    component: _6c70b44c,
+    name: "escolhida"
+  }, {
+    path: "/morteS",
+    component: _849c5650,
+    name: "morteS"
+  }, {
     path: "/poster",
     component: _04242db3,
     name: "poster"
+  }, {
+    path: "/sangue",
+    component: _28c1e4bd,
+    name: "sangue"
   }, {
     path: "/tickets",
     component: _361f7b71,
