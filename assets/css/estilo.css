@@ -1,6 +1,6 @@
 body {
-  color: white;
-  background-color: #020101;
+  margin: 0;
+  padding: 0;
 }
 
 .rodape {
@@ -10,4 +10,6 @@ body {
 
 .map {
   display: flex;
+  justify-content: right;
+  margin: 20px;
 }

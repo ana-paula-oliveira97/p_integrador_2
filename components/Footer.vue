@@ -1,6 +1,6 @@
 <template>
   <div class="rodape">
-    <div>Nossas redes Sociais:</div>
+    <p>Nossas redes Sociais:</p>
 
     <div class="map">
       <iframe
@@ -14,9 +14,7 @@
         tabindex="0"
       ></iframe>
     </div>
-    <div>
-      <p>©Todos os direitos reservados.</p>
-    </div>
+    <p>©Todos os direitos reservados.</p>
   </div>
 </template>
 
@@ -25,3 +23,7 @@ export default {
   name: "Footer",
 };
 </script>
+
+<style>
+@import "../assets/css/estilo.min.css";
+</style>;
