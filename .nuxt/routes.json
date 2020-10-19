@@ -1,9 +1,30 @@
 [
   {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_17799997"
+  },
+  {
+    "name": "poster",
+    "path": "/poster",
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\poster.vue",
+    "chunkName": "pages/poster",
+    "_name": "_04242db3"
+  },
+  {
+    "name": "tickets",
+    "path": "/tickets",
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\tickets.vue",
+    "chunkName": "pages/tickets",
+    "_name": "_361f7b71"
+  },
+  {
     "name": "index",
     "path": "/",
-    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_df386c44"
+    "_name": "_3731745c"
   }
 ]
