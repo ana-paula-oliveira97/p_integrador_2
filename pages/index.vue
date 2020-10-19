@@ -83,7 +83,9 @@
           </b-card-text>
           <template v-slot:footer>
             <b-button variant="success">Reserve seu lugar </b-button>
-            <b-button variant="success">Ver Mais </b-button>
+            <b-button variant="success"
+              ><NuxtLink to="/escolhida">Ver Mais </NuxtLink></b-button
+            >
           </template>
         </b-card>
 

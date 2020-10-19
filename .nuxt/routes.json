@@ -1,16 +1,17 @@
 [
   {
+    "name": "a_gangue",
+    "path": "/a_gangue",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\a_gangue.vue",
+    "chunkName": "pages/a_gangue",
+    "_name": "_17215da5"
+  },
+  {
     "name": "about",
     "path": "/about",
-<<<<<<< HEAD
-    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_17799997"
-=======
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\about.vue",
     "chunkName": "pages/about",
     "_name": "_70abef19"
->>>>>>> ea1443fbf837a5f43fdb8e17ee74ced5a7afd48b
   },
   {
     "name": "debuts",
@@ -20,64 +21,45 @@
     "_name": "_08902392"
   },
   {
+    "name": "escolhida",
+    "path": "/escolhida",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\escolhida.vue",
+    "chunkName": "pages/escolhida",
+    "_name": "_22212b48"
+  },
+  {
+    "name": "morteS",
+    "path": "/morteS",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\morteS.vue",
+    "chunkName": "pages/morteS",
+    "_name": "_ea6ba0d4"
+  },
+  {
     "name": "poster",
     "path": "/poster",
-<<<<<<< HEAD
-    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\poster.vue",
-    "chunkName": "pages/poster",
-    "_name": "_04242db3"
-=======
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\poster.vue",
     "chunkName": "pages/poster",
     "_name": "_5d86ef1e"
->>>>>>> ea1443fbf837a5f43fdb8e17ee74ced5a7afd48b
+  },
+  {
+    "name": "sangue",
+    "path": "/sangue",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\sangue.vue",
+    "chunkName": "pages/sangue",
+    "_name": "_144b810a"
   },
   {
     "name": "tickets",
     "path": "/tickets",
-<<<<<<< HEAD
-    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\tickets.vue",
-    "chunkName": "pages/tickets",
-    "_name": "_361f7b71"
-=======
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\tickets.vue",
     "chunkName": "pages/tickets",
     "_name": "_0c127873"
->>>>>>> ea1443fbf837a5f43fdb8e17ee74ced5a7afd48b
-  },
-  {
-    "name": "movies-a_gangue",
-    "path": "/movies/a_gangue",
-    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\movies\\\\a_gangue.vue",
-    "chunkName": "pages/movies/a_gangue",
-    "_name": "_c604d9b0"
-  },
-  {
-    "name": "movies-escolhida",
-    "path": "/movies/escolhida",
-    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\movies\\\\escolhida.vue",
-    "chunkName": "pages/movies/escolhida",
-    "_name": "_2499e539"
-  },
-  {
-    "name": "movies-morteS",
-    "path": "/movies/morteS",
-    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\movies\\\\morteS.vue",
-    "chunkName": "pages/movies/morteS",
-    "_name": "_622be9d9"
-  },
-  {
-    "name": "movies-sangue",
-    "path": "/movies/sangue",
-    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\movies\\\\sangue.vue",
-    "chunkName": "pages/movies/sangue",
-    "_name": "_65880c84"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\index.vue",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_3731745c"
+    "_name": "_df386c44"
   }
 ]
