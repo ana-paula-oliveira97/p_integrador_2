@@ -28,11 +28,11 @@
     "_name": "_22212b48"
   },
   {
-    "name": "morteS",
-    "path": "/morteS",
-    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\morteS.vue",
-    "chunkName": "pages/morteS",
-    "_name": "_ea6ba0d4"
+    "name": "morte_subita_2",
+    "path": "/morte_subita_2",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\morte_subita_2.vue",
+    "chunkName": "pages/morte_subita_2",
+    "_name": "_2f3c33ab"
   },
   {
     "name": "poster",
@@ -42,11 +42,11 @@
     "_name": "_5d86ef1e"
   },
   {
-    "name": "sangue",
-    "path": "/sangue",
-    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\sangue.vue",
-    "chunkName": "pages/sangue",
-    "_name": "_144b810a"
+    "name": "sangue_de_pelicano",
+    "path": "/sangue_de_pelicano",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\sangue_de_pelicano.vue",
+    "chunkName": "pages/sangue_de_pelicano",
+    "_name": "_1d9ff9ea"
   },
   {
     "name": "tickets",

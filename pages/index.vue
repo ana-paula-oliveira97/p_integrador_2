@@ -104,7 +104,9 @@
           </b-card-text>
           <template v-slot:footer>
             <b-button variant="success">Reserve seu lugar </b-button>
-            <b-button variant="success">Ver Mais </b-button>
+            <b-button variant="success"
+              ><NuxtLink to="/morte_subita_2">Ver Mais </NuxtLink></b-button
+            >
           </template>
         </b-card>
 
@@ -122,7 +124,9 @@
           </b-card-text>
           <template v-slot:footer>
             <b-button variant="success">Reserve seu lugar </b-button>
-            <b-button variant="success">Ver Mais </b-button>
+            <b-button variant="success"
+              ><NuxtLink to="/a_gangue">Ver Mais </NuxtLink>
+            </b-button>
           </template>
         </b-card>
 
@@ -140,7 +144,9 @@
           </b-card-text>
           <template v-slot:footer>
             <b-button variant="success">Reserve seu lugar </b-button>
-            <b-button variant="success">Ver Mais </b-button>
+            <b-button variant="success"
+              ><NuxtLink to="/sangue_de_pelicano">Ver Mais </NuxtLink></b-button
+            >
           </template>
         </b-card>
       </b-card-group>

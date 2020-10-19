@@ -11,7 +11,6 @@
       Gênero: Terror Lançamento: 2020 <br />
       Duração: 105 min.
     </p>
-
     <p>
       Sinopse: Veronica é uma autora bem sucedida que se encontra presa em dois
       diferentes períodos: Os dias atuais e o Antebellum, a era das plantações
