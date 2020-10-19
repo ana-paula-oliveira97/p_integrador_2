@@ -14,6 +14,7 @@
         tabindex="0"
       ></iframe>
     </div>
+    <p>Endereço: R. da República, 999-897, Taquaritinga - SP, 15900-000</p>
     <p class="fim-do-rodape">©Todos os direitos reservados.</p>
   </div>
 </template>

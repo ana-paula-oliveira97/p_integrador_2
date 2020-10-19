@@ -11,12 +11,12 @@
             <b-nav-item> <NuxtLink to="/">Início</NuxtLink> </b-nav-item>
             <b-nav-item> <NuxtLink to="/about">Sobre</NuxtLink> </b-nav-item>
             <b-nav-item>
-              <NuxtLink to="/Cards">Filmes em Cartaz </NuxtLink></b-nav-item
+              <NuxtLink to="/poster">Filmes em Cartaz </NuxtLink></b-nav-item
             >
             <b-nav-item href="#">Estreias</b-nav-item>
             <b-nav-item href="#">Blog</b-nav-item>
             <b-nav-item>
-              <NuxtLink to="/form">Reserve seu lugar</NuxtLink></b-nav-item
+              <NuxtLink to="/tickets">Reserve seu lugar</NuxtLink></b-nav-item
             >
           </b-navbar-nav>
 

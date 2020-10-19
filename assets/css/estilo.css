@@ -19,6 +19,10 @@ body {
 }
 
 .card {
-  width: 98.8%;
+  width: 98%;
   margin: 3px;
+}
+
+.banner-sobre {
+  height: 300px;
 }
