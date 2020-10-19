@@ -3,63 +3,54 @@
     "name": "a_gangue",
     "path": "/a_gangue",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\a_gangue.vue",
-    "chunkName": "pages/a_gangue",
-    "_name": "_2eb4ba67"
+    "chunkName": "pages/a_gangue"
   },
   {
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_17799997"
+    "chunkName": "pages/about"
   },
   {
     "name": "debuts",
     "path": "/debuts",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\debuts.vue",
-    "chunkName": "pages/debuts",
-    "_name": "_2e9f9379"
+    "chunkName": "pages/debuts"
   },
   {
     "name": "escolhida",
     "path": "/escolhida",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\escolhida.vue",
-    "chunkName": "pages/escolhida",
-    "_name": "_6c70b44c"
+    "chunkName": "pages/escolhida"
   },
   {
     "name": "morteS",
     "path": "/morteS",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\morteS.vue",
-    "chunkName": "pages/morteS",
-    "_name": "_849c5650"
+    "chunkName": "pages/morteS"
   },
   {
     "name": "poster",
     "path": "/poster",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\poster.vue",
-    "chunkName": "pages/poster",
-    "_name": "_04242db3"
+    "chunkName": "pages/poster"
   },
   {
     "name": "sangue",
     "path": "/sangue",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\sangue.vue",
-    "chunkName": "pages/sangue",
-    "_name": "_28c1e4bd"
+    "chunkName": "pages/sangue"
   },
   {
     "name": "tickets",
     "path": "/tickets",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\tickets.vue",
-    "chunkName": "pages/tickets",
-    "_name": "_361f7b71"
+    "chunkName": "pages/tickets"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_3731745c"
+    "chunkName": "pages/index"
   }
 ]
