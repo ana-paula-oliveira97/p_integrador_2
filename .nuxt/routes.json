@@ -1,5 +1,26 @@
 [
   {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_70abef19"
+  },
+  {
+    "name": "poster",
+    "path": "/poster",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\poster.vue",
+    "chunkName": "pages/poster",
+    "_name": "_5d86ef1e"
+  },
+  {
+    "name": "tickets",
+    "path": "/tickets",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\tickets.vue",
+    "chunkName": "pages/tickets",
+    "_name": "_0c127873"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\index.vue",
