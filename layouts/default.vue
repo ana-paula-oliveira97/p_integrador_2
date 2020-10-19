@@ -1,7 +1,6 @@
 <template>
   <div>
     <Header />
-    <p class="cabeca">teste</p>
     <Nuxt />
 
     <Footer />
