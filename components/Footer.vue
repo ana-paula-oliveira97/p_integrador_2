@@ -14,7 +14,7 @@
         tabindex="0"
       ></iframe>
     </div>
-    <p>©Todos os direitos reservados.</p>
+    <p class="fim-do-rodape">©Todos os direitos reservados.</p>
   </div>
 </template>
 

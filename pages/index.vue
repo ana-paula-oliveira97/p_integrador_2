@@ -66,7 +66,7 @@
     </b-carousel>
     <p></p>
 
-    <div>
+    <div class="card">
       <b-card-group deck>
         <b-card
           title="Escolhida"
