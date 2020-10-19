@@ -15,13 +15,9 @@
           seja tarde demais.
         </b-card-text>
         <template v-slot:footer>
-<<<<<<< HEAD
-          <b-button variant="success">Ver Mais </b-button>
-=======
           <b-button variant="success"
             ><NuxtLink to="/escolhida">Ver Mais </NuxtLink></b-button
           >
->>>>>>> 43e381bb8a401eda9bc2a6fb35dfff706311e9d5
         </template>
       </b-card>
 
@@ -39,13 +35,9 @@
           noite de estreia
         </b-card-text>
         <template v-slot:footer>
-<<<<<<< HEAD
-          <b-button variant="success">Ver Mais </b-button>
-=======
           <b-button variant="success"
             ><NuxtLink to="/morte_subita_2">Ver Mais </NuxtLink></b-button
           >
->>>>>>> 43e381bb8a401eda9bc2a6fb35dfff706311e9d5
         </template>
       </b-card>
 
@@ -62,13 +54,9 @@
           receber apoio e compreensão.
         </b-card-text>
         <template v-slot:footer>
-<<<<<<< HEAD
-          <b-button variant="success">Ver Mais </b-button>
-=======
           <b-button variant="success"
             ><NuxtLink to="/a_gangue">Ver Mais </NuxtLink>
           </b-button>
->>>>>>> 43e381bb8a401eda9bc2a6fb35dfff706311e9d5
         </template>
       </b-card>
 
@@ -85,13 +73,9 @@
           mãe fica determinada a ajudá-la.
         </b-card-text>
         <template v-slot:footer>
-<<<<<<< HEAD
-          <b-button variant="success">Ver Mais </b-button>
-=======
           <b-button variant="success"
             ><NuxtLink to="/sangue_de_pelicano">Ver Mais </NuxtLink></b-button
           >
->>>>>>> 43e381bb8a401eda9bc2a6fb35dfff706311e9d5
         </template>
       </b-card>
     </b-card-group>
