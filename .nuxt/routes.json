@@ -7,6 +7,13 @@
     "_name": "_70abef19"
   },
   {
+    "name": "debuts",
+    "path": "/debuts",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\debuts.vue",
+    "chunkName": "pages/debuts",
+    "_name": "_08902392"
+  },
+  {
     "name": "poster",
     "path": "/poster",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\poster.vue",
@@ -19,6 +26,34 @@
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\tickets.vue",
     "chunkName": "pages/tickets",
     "_name": "_0c127873"
+  },
+  {
+    "name": "movies-a_gangue",
+    "path": "/movies/a_gangue",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\movies\\\\a_gangue.vue",
+    "chunkName": "pages/movies/a_gangue",
+    "_name": "_c604d9b0"
+  },
+  {
+    "name": "movies-escolhida",
+    "path": "/movies/escolhida",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\movies\\\\escolhida.vue",
+    "chunkName": "pages/movies/escolhida",
+    "_name": "_2499e539"
+  },
+  {
+    "name": "movies-morteS",
+    "path": "/movies/morteS",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\movies\\\\morteS.vue",
+    "chunkName": "pages/movies/morteS",
+    "_name": "_622be9d9"
+  },
+  {
+    "name": "movies-sangue",
+    "path": "/movies/sangue",
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\movies\\\\sangue.vue",
+    "chunkName": "pages/movies/sangue",
+    "_name": "_65880c84"
   },
   {
     "name": "index",
