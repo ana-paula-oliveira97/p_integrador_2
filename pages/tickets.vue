@@ -3,7 +3,7 @@
     <b-form @submit="onSubmit" @reset="onReset" v-if="show">
       <b-form-group
         id="input-group-1"
-        label="Sala:"
+        label="Nome:"
         label-for="input-1"
         
       >

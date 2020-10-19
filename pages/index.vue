@@ -82,7 +82,13 @@
             que seja tarde demais.
           </b-card-text>
           <template v-slot:footer>
+<<<<<<< HEAD
             <b-button variant="success">Reserve seu lugar </b-button>
+=======
+            <b-button variant="success"
+              ><NuxtLink to="/tickets">Reserve seu lugar </NuxtLink></b-button
+            >
+>>>>>>> 43e381bb8a401eda9bc2a6fb35dfff706311e9d5
             <b-button variant="success"
               ><NuxtLink to="/escolhida">Ver Mais </NuxtLink></b-button
             >
@@ -103,8 +109,17 @@
             durante a noite de estreia
           </b-card-text>
           <template v-slot:footer>
+<<<<<<< HEAD
             <b-button variant="success">Reserve seu lugar </b-button>
             <b-button variant="success">Ver Mais </b-button>
+=======
+            <b-button variant="success"
+              ><NuxtLink to="/tickets">Reserve seu lugar </NuxtLink></b-button
+            >
+            <b-button variant="success"
+              ><NuxtLink to="/morte_subita_2">Ver Mais </NuxtLink></b-button
+            >
+>>>>>>> 43e381bb8a401eda9bc2a6fb35dfff706311e9d5
           </template>
         </b-card>
 
@@ -121,8 +136,17 @@
             empresa espera receber apoio e compreensão.
           </b-card-text>
           <template v-slot:footer>
+<<<<<<< HEAD
             <b-button variant="success">Reserve seu lugar </b-button>
             <b-button variant="success">Ver Mais </b-button>
+=======
+            <b-button variant="success"
+              ><NuxtLink to="/tickets">Reserve seu lugar </NuxtLink></b-button
+            >
+            <b-button variant="success"
+              ><NuxtLink to="/a_gangue">Ver Mais </NuxtLink>
+            </b-button>
+>>>>>>> 43e381bb8a401eda9bc2a6fb35dfff706311e9d5
           </template>
         </b-card>
 
@@ -139,8 +163,17 @@
             nova mãe fica determinada a ajudá-la.
           </b-card-text>
           <template v-slot:footer>
+<<<<<<< HEAD
             <b-button variant="success">Reserve seu lugar </b-button>
             <b-button variant="success">Ver Mais </b-button>
+=======
+            <b-button variant="success"
+              ><NuxtLink to="/tickets">Reserve seu lugar </NuxtLink></b-button
+            >
+            <b-button variant="success"
+              ><NuxtLink to="/sangue_de_pelicano">Ver Mais </NuxtLink></b-button
+            >
+>>>>>>> 43e381bb8a401eda9bc2a6fb35dfff706311e9d5
           </template>
         </b-card>
       </b-card-group>

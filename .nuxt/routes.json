@@ -24,6 +24,12 @@
     "chunkName": "pages/escolhida"
   },
   {
+    "name": "morte_subita_2",
+    "path": "/morte_subita_2",
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\morte_subita_2.vue",
+    "chunkName": "pages/morte_subita_2"
+  },
+  {
     "name": "morteS",
     "path": "/morteS",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\morteS.vue",
@@ -40,6 +46,12 @@
     "path": "/sangue",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\sangue.vue",
     "chunkName": "pages/sangue"
+  },
+  {
+    "name": "sangue_de_pelicano",
+    "path": "/sangue_de_pelicano",
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\sangue_de_pelicano.vue",
+    "chunkName": "pages/sangue_de_pelicano"
   },
   {
     "name": "tickets",
