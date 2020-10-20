@@ -1,19 +1,13 @@
 <template>
   <div class="form">
-    <b-form @submit="onSubmit" @reset="onReset" v-if="show">
-      <b-form-group
-      id="input-group-1"
-        label="Nome:"
-        label-for="input-1"
-        
-      >
+    <b-form-group id="input-group-1" label="Nome:" label-for="input-2">
         <b-form-input
           id="input-1"
-          v-model="form.email"
-          type="email"
+          v-model="form.name"
           required
         ></b-form-input>
       </b-form-group>
+        
 
       <b-form-group id="input-group-2" label="Quantidade de Pessoas:" label-for="input-2">
         <b-form-input
@@ -41,7 +35,6 @@
 
       <b-button type="submit" variant="primary">Enviar</b-button>
       <b-button type="reset" variant="danger">Cancelar</b-button>
-    </b-form>
     
   </div>
 </template>

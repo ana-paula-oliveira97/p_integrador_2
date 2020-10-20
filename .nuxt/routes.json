@@ -3,66 +3,77 @@
     "name": "a_gangue",
     "path": "/a_gangue",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\a_gangue.vue",
-    "chunkName": "pages/a_gangue"
+    "chunkName": "pages/a_gangue",
+    "_name": "_2eb4ba67"
   },
   {
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_17799997"
   },
   {
     "name": "debuts",
     "path": "/debuts",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\debuts.vue",
-    "chunkName": "pages/debuts"
+    "chunkName": "pages/debuts",
+    "_name": "_2e9f9379"
   },
   {
     "name": "escolhida",
     "path": "/escolhida",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\escolhida.vue",
-    "chunkName": "pages/escolhida"
+    "chunkName": "pages/escolhida",
+    "_name": "_6c70b44c"
   },
   {
     "name": "morte_subita_2",
     "path": "/morte_subita_2",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\morte_subita_2.vue",
-    "chunkName": "pages/morte_subita_2"
+    "chunkName": "pages/morte_subita_2",
+    "_name": "_3f591226"
   },
   {
     "name": "morteS",
     "path": "/morteS",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\morteS.vue",
-    "chunkName": "pages/morteS"
+    "chunkName": "pages/morteS",
+    "_name": "_849c5650"
   },
   {
     "name": "poster",
     "path": "/poster",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\poster.vue",
-    "chunkName": "pages/poster"
+    "chunkName": "pages/poster",
+    "_name": "_04242db3"
   },
   {
     "name": "sangue",
     "path": "/sangue",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\sangue.vue",
-    "chunkName": "pages/sangue"
+    "chunkName": "pages/sangue",
+    "_name": "_28c1e4bd"
   },
   {
     "name": "sangue_de_pelicano",
     "path": "/sangue_de_pelicano",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\sangue_de_pelicano.vue",
-    "chunkName": "pages/sangue_de_pelicano"
+    "chunkName": "pages/sangue_de_pelicano",
+    "_name": "_1ae05566"
   },
   {
     "name": "tickets",
     "path": "/tickets",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\tickets.vue",
-    "chunkName": "pages/tickets"
+    "chunkName": "pages/tickets",
+    "_name": "_361f7b71"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_3731745c"
   }
 ]
