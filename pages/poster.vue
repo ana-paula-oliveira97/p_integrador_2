@@ -15,7 +15,7 @@
           seja tarde demais.
         </b-card-text>
         <template v-slot:footer>
-          <b-button class="btn" 
+          <b-button variant="success"
             ><NuxtLink to="/escolhida">Ver Mais </NuxtLink></b-button
           >
         </template>

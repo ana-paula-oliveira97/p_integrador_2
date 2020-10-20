@@ -1,19 +1,18 @@
 <template>
   <div class="form">
-  
-   <b-form-group  id = "input-group-1"  label = "Nome:"  label-for = "input-1" > 
-        <b-form-input 
-          id = "input-1" 
-          v-model = "form.Nome" 
-          required 
-        > </b-form-input > 
-      </b-form-group >
+    <b-form-group id="input-group-1" label="Nome:" label-for="input-2">
+        <b-form-input
+          id="input-1"
+          v-model="form.name"
+          required
+        ></b-form-input>
+      </b-form-group>
         
 
       <b-form-group id="input-group-2" label="Quantidade de Pessoas:" label-for="input-2">
         <b-form-input
           id="input-2"
-          v-model="form.Quantidade"
+          v-model="form.name"
           required
         ></b-form-input>
       </b-form-group>
@@ -21,8 +20,8 @@
       <b-form-group id="input-group-3" label="Filmes:" label-for="input-3">
         <b-form-select
           id="input-3"
-          v-model="form.Filmes"
-          :options="Filmes"
+          v-model="form.food"
+          :options="foods"
           required
         ></b-form-select>
       </b-form-group>
@@ -44,12 +43,12 @@
     data() {
       return {
         form: {
-          Nome: '',
-          Quantidade: '',
-          Filmes: null,
+          name: '',
+          name: '',
+          food: null,
           checked: []
         },
-        Filmes: [{ text: 'Selecione', value: null }, 'Escolhida', 'Morte Súbita 2', 'A Gangue: Uma noite de sangue', 'Sangue de Pelicano'],
+        foods: [{ text: 'Selecione', value: null }, 'Escolhida', 'Morte Súbita 2', 'A Gangue: Uma noite de sangue', 'Sangue de Pelicano'],
         show: true
       }
     },
@@ -61,9 +60,9 @@
       onReset(evt) {
         evt.preventDefault()
         // Reset our form values
-        this.form.Nome = ''
-        this.form.Quantidade = ''
-        this.form.Filmes = null
+        this.form.email = ''
+        this.form.name = ''
+        this.form.food = null
         this.form.checked = []
         // Trick to reset/clear native browser form validation state
         this.show = false
