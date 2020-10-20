@@ -35,14 +35,16 @@
     <div>
       <p>alguns atores e atrizes:</p>
       <div class="fotos">
-        <img src="~/assets/img/michael jai white.jpg" alt="" />Michael Jai White
+        <img src="~/assets/img/michael jai white.jpg" alt="" />
+        <p>Michael Jai White</p>
       </div>
       <div class="fotos">
-        <img src="~/assets/img/michael eklund.jpg" alt="" />Michael Eklund -
-        Jobe
+        <img src="~/assets/img/michael eklund.jpg" alt="" />
+        <p>Michael Eklund - Jobe</p>
       </div>
       <div class="fotos">
-        <img src="~/assets/img/gillian white.jpg" alt="" />Gillian White - Gamma
+        <img src="~/assets/img/gillian white.jpg" alt="" />
+        <p>Gillian White - Gamma</p>
       </div>
     </div>
   </div>

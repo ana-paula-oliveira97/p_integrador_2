@@ -40,15 +40,16 @@
       <p>alguns atores e atrizes:</p>
 
       <div class="fotos">
-        <img src="~/assets/img/Leigh smith.jpg" alt="" />Leigh smith - Nathan
+        <img src="~/assets/img/Leigh smith.jpg" alt="" />
+        <p>Leigh smith - Nathan</p>
       </div>
       <div class="fotos">
-        <img src="~/assets/img/alexandra adornetto.jpg" alt="" />alexandra
-        adornetto - Sam
+        <img src="~/assets/img/alexandra adornetto.jpg" alt="" />
+        <p>alexandra adornetto - Sam</p>
       </div>
       <div class="fotos">
-        <img src="~/assets/img/Mick preston.jpg" alt="" />Mick preston - Nick
-        Wright
+        <img src="~/assets/img/Mick preston.jpg" alt="" />
+        <p>Mick preston - Nick Wright</p>
       </div>
     </div>
   </div>
