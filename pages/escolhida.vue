@@ -28,5 +28,20 @@
         allowfullscreen
       ></iframe>
     </div>
+    <div>
+      <p>alguns atores e atrizes:</p>
+      <div class="fotos">
+        <img src="~/assets/img/janelle monáe.jpg" alt="" />Janelle Monáe -
+        Veronica
+      </div>
+      <div class="fotos">
+        <img src="~/assets/img/marque richardson.png" alt="" />Marque Richardson
+        - Nick Jobe
+      </div>
+      <div class="fotos">
+        <img src="~/assets/img/jack huston.jpg" alt="" />Jack Huston - Captain
+        Jasper
+      </div>
+    </div>
   </div>
 </template>

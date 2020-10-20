@@ -32,5 +32,18 @@
         allowfullscreen
       ></iframe>
     </div>
+    <div>
+      <p>alguns atores e atrizes:</p>
+      <div class="fotos">
+        <img src="~/assets/img/michael jai white.jpg" alt="" />Michael Jai White
+      </div>
+      <div class="fotos">
+        <img src="~/assets/img/michael eklund.jpg" alt="" />Michael Eklund -
+        Jobe
+      </div>
+      <div class="fotos">
+        <img src="~/assets/img/gillian white.jpg" alt="" />Gillian White - Gamma
+      </div>
+    </div>
   </div>
 </template>
