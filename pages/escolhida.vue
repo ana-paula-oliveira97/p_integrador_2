@@ -7,19 +7,16 @@
     />
     <h1>Título original: Antebellum</h1>
     <p>
-      Direção: Gerard Bush, Christopher Renz <br />
-      Gênero: Terror Lançamento: 2020 <br />
-      Duração: 105 min.
+      <strong>Direção:</strong> Gerard Bush, Christopher Renz <br />
+      <strong> Gênero:</strong> Terror Lançamento: 2020 <br />
+      <strong>Duração:</strong> 105 min.
     </p>
-<<<<<<< HEAD
-
-=======
->>>>>>> 43e381bb8a401eda9bc2a6fb35dfff706311e9d5
     <p>
-      Sinopse: Veronica é uma autora bem sucedida que se encontra presa em dois
-      diferentes períodos: Os dias atuais e o Antebellum, a era das plantações
-      no sul. Imersa nesta horrorizante realidade, ela deve descobrir o mistério
-      por trás desse acontecimentos e fugir, antes que seja tarde demais.
+      <strong>Sinopse:</strong> Veronica é uma autora bem sucedida que se
+      encontra presa em dois diferentes períodos: Os dias atuais e o Antebellum,
+      a era das plantações no sul. Imersa nesta horrorizante realidade, ela deve
+      descobrir o mistério por trás desse acontecimentos e fugir, antes que seja
+      tarde demais.
     </p>
     <div class="trailer">
       <iframe

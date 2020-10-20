@@ -8,19 +8,19 @@
     <h1>Título original: Pelikanblut</h1>
 
     <p>
-      Direção: Katrin Gebbe<br />
-      Gênero: Drama, Terror<br />
-      Lançamento: 2020<br />
-      Duração: 120 min.<br />
+      <strong>Direção:</strong> Katrin Gebbe<br />
+      <strong>Gênero:</strong> Drama, Terror<br />
+      <strong> Lançamento:</strong> 2020<br />
+      <strong> Duração:</strong> 120 min.<br />
 
-      Prêmios: 2 vitórias e 7 indicações.
+      <strong> Prêmios:</strong> 2 vitórias e 7 indicações.
     </p>
 
     <p>
-      Sinopse: Uma mulher que treina cavalos policiais quer mais um filho e
-      então adota uma criança, uma menina de 5 anos gravemente traumatizada.
-      Quando a menina mostra comportamento violento e antissocial, sua nova mãe
-      fica determinada a ajudá-la.
+      <strong>Sinopse:</strong> Uma mulher que treina cavalos policiais quer
+      mais um filho e então adota uma criança, uma menina de 5 anos gravemente
+      traumatizada. Quando a menina mostra comportamento violento e antissocial,
+      sua nova mãe fica determinada a ajudá-la.
     </p>
     <div class="trailer">
       <iframe
