@@ -28,20 +28,5 @@
         allowfullscreen
       ></iframe>
     </div>
-    <div>
-      <p>alguns atores e atrizes:</p>
-      <div class="fotos">
-        <img src="~/assets/img/janelle monáe.jpg" alt="" />
-        <p>Janelle Monáe - Veronica</p>
-      </div>
-      <div class="fotos">
-        <img src="~/assets/img/marque richardson.png" alt="" />
-        <p>Marque Richardson - Nick Jobe</p>
-      </div>
-      <div class="fotos">
-        <img src="~/assets/img/jack huston.jpg" alt="" />
-        <p>Jack Huston - Captain Jasper</p>
-      </div>
-    </div>
   </div>
 </template>
