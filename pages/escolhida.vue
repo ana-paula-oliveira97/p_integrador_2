@@ -28,7 +28,7 @@
         allowfullscreen
       ></iframe>
     </div>
-    <div>
+    <div class="atores">
       <p>alguns atores e atrizes:</p>
       <div>
         <img class="fotos" src="~/assets/img/janelle monáe.jpg" alt="" />
