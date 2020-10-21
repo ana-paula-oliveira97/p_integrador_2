@@ -3,72 +3,84 @@
     "name": "a_gangue",
     "path": "/a_gangue",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\a_gangue.vue",
-    "chunkName": "pages/a_gangue"
+    "chunkName": "pages/a_gangue",
+    "_name": "_17215da5"
   },
   {
     "name": "about",
     "path": "/about",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_70abef19"
   },
   {
     "name": "blog",
     "path": "/blog",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\blog.vue",
-    "chunkName": "pages/blog"
+    "chunkName": "pages/blog",
+    "_name": "_11064974"
   },
   {
     "name": "debuts",
     "path": "/debuts",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\debuts.vue",
-    "chunkName": "pages/debuts"
+    "chunkName": "pages/debuts",
+    "_name": "_08902392"
   },
   {
     "name": "escolhida",
     "path": "/escolhida",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\escolhida.vue",
-    "chunkName": "pages/escolhida"
+    "chunkName": "pages/escolhida",
+    "_name": "_22212b48"
   },
   {
     "name": "morte_subita_2",
     "path": "/morte_subita_2",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\morte_subita_2.vue",
-    "chunkName": "pages/morte_subita_2"
+    "chunkName": "pages/morte_subita_2",
+    "_name": "_2f3c33ab"
   },
   {
     "name": "morteS",
     "path": "/morteS",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\morteS.vue",
-    "chunkName": "pages/morteS"
+    "chunkName": "pages/morteS",
+    "_name": "_ea6ba0d4"
   },
   {
     "name": "poster",
     "path": "/poster",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\poster.vue",
-    "chunkName": "pages/poster"
+    "chunkName": "pages/poster",
+    "_name": "_5d86ef1e"
   },
   {
     "name": "sangue",
     "path": "/sangue",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\sangue.vue",
-    "chunkName": "pages/sangue"
+    "chunkName": "pages/sangue",
+    "_name": "_144b810a"
   },
   {
     "name": "sangue_de_pelicano",
     "path": "/sangue_de_pelicano",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\sangue_de_pelicano.vue",
-    "chunkName": "pages/sangue_de_pelicano"
+    "chunkName": "pages/sangue_de_pelicano",
+    "_name": "_1d9ff9ea"
   },
   {
     "name": "tickets",
     "path": "/tickets",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\tickets.vue",
-    "chunkName": "pages/tickets"
+    "chunkName": "pages/tickets",
+    "_name": "_0c127873"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_df386c44"
   }
 ]

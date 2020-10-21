@@ -76,3 +76,12 @@ body {
   border-radius: 100px;
   margin: 20px;
 }
+
+.botao {
+  text-decoration: none;
+  border: green 1px solid;
+}
+
+.botao :hover {
+  text-decoration: none;
+}
