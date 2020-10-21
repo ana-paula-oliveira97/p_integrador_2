@@ -30,6 +30,7 @@ body {
 .capa {
   float: left;
   margin: 5px;
+  padding: 5px;
 }
 
 .filme h1 {
