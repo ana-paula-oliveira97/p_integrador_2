@@ -36,5 +36,21 @@
         allowfullscreen
       ></iframe>
     </div>
+    <div>
+      <p>alguns atores e atrizes:</p>
+
+      <div>
+        <img class="fotos" src="~/assets/img/Leigh smith.jpg" alt="" />
+        <p>Leigh smith - Nathan</p>
+      </div>
+      <div>
+        <img class="fotos" src="~/assets/img/alexandra adornetto.jpg" alt="" />
+        <p>alexandra adornetto - Sam</p>
+      </div>
+      <div>
+        <img class="fotos" src="~/assets/img/Mick preston.jpg" alt="" />
+        <p>Mick preston - Nick Wright</p>
+      </div>
+    </div>
   </div>
 </template>
