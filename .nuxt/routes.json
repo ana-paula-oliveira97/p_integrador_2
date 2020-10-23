@@ -14,6 +14,13 @@
     "_name": "_17799997"
   },
   {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_4730e908"
+  },
+  {
     "name": "debuts",
     "path": "/debuts",
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\p-integrador2\\\\p_integrador_2\\\\pages\\\\debuts.vue",

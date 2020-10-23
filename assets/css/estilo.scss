@@ -1,8 +1,6 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  
 }
 
 
@@ -35,6 +33,7 @@ body {
 .capa{
   float: left;
   margin: 5px;
+  padding: 5px;
 }
 
 .filme h1{
@@ -50,6 +49,7 @@ body {
   text-align: center;
 
 }
+
 .h1{
   font-size: 18px;
 }
@@ -57,9 +57,8 @@ body {
   font-size: 14px;
 }
 
-  
-
 .form{   
+  background: white; 
   border-radius: 1px;
   background-color: white;
   width:650px;
@@ -67,9 +66,33 @@ body {
   padding: 5%;
 }
 
-
-.fotos{
-  margin: 5px;
-  
+.atores{
+  display: inline-flex;
+  justify-content: center;
+  margin: 20px;
+  padding: 10px;
 }
 
+.atores p{
+  text-align: center;
+  font-size: 18px;
+}
+
+.atores div{
+  margin: 40px;
+}
+
+.fotos{
+  width: 200px;
+  border-radius: 100px;
+  margin: 20px;
+}
+
+.botao{
+  text-decoration: none;
+  border: green 1px solid;
+}
+
+.botao :hover{
+    text-decoration: none;
+}

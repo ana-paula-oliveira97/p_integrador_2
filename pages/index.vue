@@ -86,6 +86,10 @@
               ><NuxtLink to="/tickets">Reserve seu lugar</NuxtLink>
             </b-button>
             <b-button variant="Sucess"
+            <b-button class="botao" variant="Primary"
+              ><NuxtLink to="/tickets">Reserve seu lugar</NuxtLink>
+            </b-button>
+            <b-button class="botao" variant="Primary"
               ><NuxtLink to="/escolhida">Ver Mais </NuxtLink></b-button
             >
           </template>
@@ -109,6 +113,12 @@
               ><NuxtLink to="/tickets">Reserve seu lugar </NuxtLink></b-button
             >
             <b-button variant="Sucess"
+
+            <b-button class="botao" variant="Primary"
+              ><NuxtLink to="/tickets">Reserve seu lugar </NuxtLink></b-button
+            >
+            <b-button class="botao" variant="Primary"
+
               ><NuxtLink to="/morte_subita_2">Ver Mais</NuxtLink>
             </b-button>
           </template>
@@ -127,10 +137,16 @@
             empresa espera receber apoio e compreensão.
           </b-card-text>
           <template v-slot:footer>
+
             <b-button variant="Sucess"
               ><NuxtLink to="/tickets">Reserve seu lugar </NuxtLink>
             </b-button>
             <b-button variant="Sucess"
+
+            <b-button class="botao" variant="Primary"
+              ><NuxtLink to="/tickets">Reserve seu lugar </NuxtLink>
+            </b-button>
+            <b-button class="botao" variant="Primary"
               ><NuxtLink to="/a_gangue">Ver Mais </NuxtLink></b-button
             >
           </template>
@@ -149,10 +165,17 @@
             nova mãe fica determinada a ajudá-la.
           </b-card-text>
           <template v-slot:footer>
+
             <b-button variant="Sucess"
               ><NuxtLink to="/tickets">Reserve seu lugar</NuxtLink>
             </b-button>
             <b-button variant="Sucess"
+
+            <b-button class="botao" variant="Primary"
+              ><NuxtLink to="/tickets">Reserve seu lugar</NuxtLink>
+            </b-button>
+            <b-button class="botao" variant="Primary"
+
               ><NuxtLink to="/sangue_de_pelicano">Ver Mais </NuxtLink>
             </b-button>
           </template>

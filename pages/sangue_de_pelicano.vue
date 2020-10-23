@@ -32,18 +32,18 @@
         allowfullscreen
       ></iframe>
     </div>
-    <div>
+    <div class="atores">
       <p>alguns atores e atrizes:</p>
-      <div class="fotos">
-        <img src="~/assets/img/Nina Hoss.jpg" alt="" />
+      <div>
+        <img class="fotos" src="~/assets/img/Nina Hoss.jpg" alt="" />
         <p>Nina Hoss - Wiebke</p>
       </div>
-      <div class="fotos">
-        <img src="~/assets/img/yana marinova.jpg" alt="" />
+      <div>
+        <img class="fotos" src="~/assets/img/yana marinova.jpg" alt="" />
         <p>Yana Marinova - Sigrid</p>
       </div>
-      <div class="fotos">
-        <img src="~/assets/img/dimitar banenkin.jpg" alt="" />
+      <div>
+        <img class="fotos" src="~/assets/img/dimitar banenkin.jpg" alt="" />
         <p>Dimitar Banenkin - Hagen</p>
       </div>
     </div>

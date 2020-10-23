@@ -13,8 +13,7 @@
             <b-nav-item>
               <NuxtLink to="/poster">Filmes em Cartaz </NuxtLink></b-nav-item
             >
-            <b-nav-item href="#">Estreias</b-nav-item>
-            <b-nav-item href="#">Blog</b-nav-item>
+            <b-nav-item> <NuxtLink to="/blog">Blog</NuxtLink> </b-nav-item>
             <b-nav-item>
               <NuxtLink to="/tickets">Reserve seu lugar</NuxtLink></b-nav-item
             >
