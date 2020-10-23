@@ -54,7 +54,7 @@
           receber apoio e compreensão.
         </b-card-text>
         <template v-slot:footer>
-          <b-button class="botao" variant="success"
+          <b-button class="botao" variant="Primary"
             ><NuxtLink to="/a_gangue">Ver Mais </NuxtLink>
           </b-button>
         </template>
@@ -73,7 +73,7 @@
           mãe fica determinada a ajudá-la.
         </b-card-text>
         <template v-slot:footer>
-          <b-button class="botao" variant="success"
+          <b-button class="botao" variant="Primary"
             ><NuxtLink to="/sangue_de_pelicano">Ver Mais </NuxtLink></b-button
           >
         </template>
