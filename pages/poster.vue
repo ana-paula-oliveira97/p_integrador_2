@@ -16,7 +16,7 @@
         </b-card-text>
         <template v-slot:footer>
           <b-button class="botao" variant="Primary"
-            ><NuxtLink to="/escolhida">Ver Mais </NuxtLink></b-button
+            ><NuxtLink to="/escolhida">Ver mais </NuxtLink></b-button
           >
         </template>
       </b-card>
@@ -36,7 +36,7 @@
         </b-card-text>
         <template v-slot:footer>
           <b-button class="botao" variant="Primary"
-            ><NuxtLink to="/morte_subita_2">Ver Mais </NuxtLink></b-button
+            ><NuxtLink to="/morte_subita_2">Ver mais </NuxtLink></b-button
           >
         </template>
       </b-card>
@@ -55,7 +55,7 @@
         </b-card-text>
         <template v-slot:footer>
           <b-button class="botao" variant="Primary"
-            ><NuxtLink to="/a_gangue">Ver Mais </NuxtLink>
+            ><NuxtLink to="/a_gangue">Ver mais </NuxtLink>
           </b-button>
         </template>
       </b-card>
@@ -74,7 +74,7 @@
         </b-card-text>
         <template v-slot:footer>
           <b-button class="botao" variant="Primary"
-            ><NuxtLink to="/sangue_de_pelicano">Ver Mais </NuxtLink></b-button
+            ><NuxtLink to="/sangue_de_pelicano">Ver mais </NuxtLink></b-button
           >
         </template>
       </b-card>

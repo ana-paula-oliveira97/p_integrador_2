@@ -82,11 +82,11 @@
             que seja tarde demais.
           </b-card-text>
           <template v-slot:footer>
-            <b-button variant="Sucess" <b-button class="botao" variant="Primary"
+            <b-button class="botao" variant="Primary"
               ><NuxtLink to="/tickets">Reserve seu lugar</NuxtLink>
             </b-button>
             <b-button class="botao" variant="Primary"
-              ><NuxtLink to="/escolhida">Ver Mais </NuxtLink></b-button
+              ><NuxtLink to="/escolhida">Ver mais </NuxtLink></b-button
             >
           </template>
         </b-card>
@@ -105,11 +105,11 @@
             durante a noite de estreia
           </b-card-text>
           <template v-slot:footer>
-            <b-button variant="Sucess" <b-button class="botao" variant="Primary"
+            <b-button class="botao" variant="Primary"
               ><NuxtLink to="/tickets">Reserve seu lugar </NuxtLink></b-button
             >
             <b-button class="botao" variant="Primary"
-              ><NuxtLink to="/morte_subita_2">Ver Mais</NuxtLink>
+              ><NuxtLink to="/morte_subita_2">Ver mais</NuxtLink>
             </b-button>
           </template>
         </b-card>
@@ -127,11 +127,11 @@
             empresa espera receber apoio e compreensão.
           </b-card-text>
           <template v-slot:footer>
-            <b-button variant="Sucess" <b-button class="botao" variant="Primary"
+            <b-button class="botao" variant="Primary"
               ><NuxtLink to="/tickets">Reserve seu lugar </NuxtLink>
             </b-button>
             <b-button class="botao" variant="Primary"
-              ><NuxtLink to="/a_gangue">Ver Mais </NuxtLink></b-button
+              ><NuxtLink to="/a_gangue">Ver mais </NuxtLink></b-button
             >
           </template>
         </b-card>
@@ -149,11 +149,11 @@
             nova mãe fica determinada a ajudá-la.
           </b-card-text>
           <template v-slot:footer>
-            <b-button variant="Sucess" <b-button class="botao" variant="Primary"
+            <b-button class="botao" variant="Primary"
               ><NuxtLink to="/tickets">Reserve seu lugar</NuxtLink>
             </b-button>
             <b-button class="botao" variant="Primary"
-              ><NuxtLink to="/sangue_de_pelicano">Ver Mais </NuxtLink>
+              ><NuxtLink to="/sangue_de_pelicano">Ver mais </NuxtLink>
             </b-button>
           </template>
         </b-card>
