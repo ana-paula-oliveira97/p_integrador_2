@@ -9,6 +9,9 @@ body {
   color: white;
 }
 
+.rodape p{
+  margin: 10px;
+}
 
 .map{
   display: flex;
@@ -95,4 +98,10 @@ body {
 
 .botao :hover{
     text-decoration: none;
+}
+
+.facebook{
+  height: 100px;
+  margin: 5px;
+  padding: 5px;
 }
