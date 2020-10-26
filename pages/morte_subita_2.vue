@@ -33,7 +33,7 @@
       ></iframe>
     </div>
     <div class="atores">
-      <p>alguns atores e atrizes:</p>
+      <p>Alguns atores e atrizes:</p>
       <div>
         <img class="fotos" src="~/assets/img/michael jai white.jpg" alt="" />
         <p>Michael Jai White</p>

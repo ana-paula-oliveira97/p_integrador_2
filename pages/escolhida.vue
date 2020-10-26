@@ -29,7 +29,7 @@
       ></iframe>
     </div>
     <div class="atores">
-      <p>alguns atores e atrizes:</p>
+      <p>Alguns atores e atrizes:</p>
       <div>
         <img class="fotos" src="~/assets/img/janelle monáe.jpg" alt="" />
         <p>Janelle Monáe - Veronica</p>

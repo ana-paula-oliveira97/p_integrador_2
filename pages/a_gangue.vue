@@ -37,7 +37,7 @@
       ></iframe>
     </div>
     <div class="atores">
-      <p>alguns atores e atrizes:</p>
+      <p>Alguns atores e atrizes:</p>
 
       <div>
         <img class="fotos" src="~/assets/img/Leigh smith.jpg" alt="" />

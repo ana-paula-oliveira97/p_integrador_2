@@ -33,7 +33,7 @@
       ></iframe>
     </div>
     <div class="atores">
-      <p>alguns atores e atrizes:</p>
+      <p>Alguns atores e atrizes:</p>
       <div>
         <img class="fotos" src="~/assets/img/Nina Hoss.jpg" alt="" />
         <p>Nina Hoss - Wiebke</p>
