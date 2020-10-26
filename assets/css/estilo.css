@@ -103,3 +103,23 @@ body {
   margin: 5px;
   padding: 5px;
 }
+
+.fonte-menu {
+  text-decoration: none;
+  margin: 5px;
+  color: white;
+  font-size: 20px;
+}
+
+.fonte-menu:hover {
+  color: red;
+}
+
+.logo-inicio {
+  text-decoration: none;
+  color: white;
+}
+
+.logo-inicio:hover {
+  color: white;
+}

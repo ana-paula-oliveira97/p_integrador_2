@@ -2,20 +2,34 @@
   <div>
     <div>
       <b-navbar toggleable="lg" type="dark" variant="dark">
-        <b-navbar-brand href="#">Cinemac</b-navbar-brand>
+        <b-navbar-brand>
+          <NuxtLink class="logo-inicio" to="/"
+            >Cinemac
+          </NuxtLink></b-navbar-brand
+        >
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav class="fonte-menu">
-            <b-nav-item> <NuxtLink to="/">Início</NuxtLink> </b-nav-item>
-            <b-nav-item> <NuxtLink to="/about">Sobre</NuxtLink> </b-nav-item>
             <b-nav-item>
-              <NuxtLink to="/poster">Filmes em Cartaz </NuxtLink></b-nav-item
+              <NuxtLink class="fonte-menu" to="/">Início</NuxtLink>
+            </b-nav-item>
+            <b-nav-item>
+              <NuxtLink class="fonte-menu" to="/about">Sobre</NuxtLink>
+            </b-nav-item>
+            <b-nav-item>
+              <NuxtLink class="fonte-menu" to="/poster"
+                >Filmes em Cartaz
+              </NuxtLink></b-nav-item
             >
-            <b-nav-item> <NuxtLink to="/blog">Blog</NuxtLink> </b-nav-item>
             <b-nav-item>
-              <NuxtLink to="/tickets">Reserve seu lugar</NuxtLink></b-nav-item
+              <NuxtLink class="fonte-menu" to="/blog">Blog</NuxtLink>
+            </b-nav-item>
+            <b-nav-item>
+              <NuxtLink class="fonte-menu" to="/tickets"
+                >Reserve seu lugar</NuxtLink
+              ></b-nav-item
             >
           </b-navbar-nav>
 
