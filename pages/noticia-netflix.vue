@@ -16,14 +16,14 @@
       alt="imagem do jogo assassin's creed II, jogo de video game desenvolvido pela ubsoft"
     />
     <p>
-      No dia 27 de outubro de 2020 a Netflix brasil surpreendeu farios fã com um
-      pequeno video de 10 segundos,mostrando o logo da então franquia Assassin's
-      Credd da produtoda e desenvolvedora de games Ubsoft.
+      No dia 27 de outubro de 2020 a Netflix brasil surpreendeu os fãs com um
+      pequeno vídeo de 10 segundos, mostrando o logo da então franquia
+      Assassin's Creed da produtora e desenvolvedora de games Ubsoft.
     </p>
     <p>
-      O video mostra o logo do game aparecendo aos poucos e no seu centro a
+      O vídeo mostra o logo do game aparecendo aos poucos e no seu centro a
       letra N (de netflix), com sua coloração em vermelho a mesma cor da
-      prataforma, confira a postagem a baixo.
+      plataforma, confira a postagem a baixo
     </p>
     <div>
       <blockquote class="twitter-tweet">
@@ -43,12 +43,12 @@
         charset="utf-8"
       ></script>
       <p>
-        Ainda não temos noticias se a protudora de conteudo fara a clonologia de
-        todos os jogos da franquia ou apenas um em expecifico, porem os jogos
+        Ainda não temos notícias se a produtora de conteúdo fara a cronologia de
+        todos os jogos da franquia ou apenas um em especifico, porem os jogos
         possuem 3 jogos que se mantem como o mesmo "personagem" principal sendo
-        ele <strong>Ezio auditore</strong> da firenze, estando presente nos
+        ele <strong> Ezio auditore</strong> da Firenze, estando presente nos
         jogos Assassin’s Creed II, Assassin’s Creed: Brotherhood e Assassin’s
-        Creed: Revelations tendo sua ultima aparição no curta Assassin's Creed
+        Creed: Revelations tendo sua última aparição no curta Assassin's Creed
         Embers confira a baixo.
       </p>
       <div class="trailer">
