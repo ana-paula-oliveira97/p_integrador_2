@@ -1,5 +1,8 @@
 <template>
   <div>
+    <div class="navegacao">
+      <p><NuxtLink class="navegacao" to="/">Início</NuxtLink> > Sobre</p>
+    </div>
     <img
       class="banner-sobre"
       src="~/assets/img/cine.jpg"

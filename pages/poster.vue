@@ -1,5 +1,10 @@
 <template>
   <div class="card">
+    <div class="navegacao">
+      <p>
+        <NuxtLink class="navegacao" to="/">Início</NuxtLink> > Filmes em cartaz
+      </p>
+    </div>
     <b-card-group deck>
       <b-card
         title="Escolhida"

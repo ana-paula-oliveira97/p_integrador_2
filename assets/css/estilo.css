@@ -123,3 +123,8 @@ body {
 .logo-inicio:hover {
   color: white;
 }
+
+.navegacao p {
+  margin: 6px;
+  font-size: 15px;
+}

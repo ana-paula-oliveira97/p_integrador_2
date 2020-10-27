@@ -1,5 +1,13 @@
 <template>
   <div class="filme">
+    <div class="navegacao">
+      <p>
+        <NuxtLink class="navegacao" to="/">Início</NuxtLink> >
+        <NuxtLink class="navegacao" to="/poster">Filmes em cartaz</NuxtLink> > A
+        Gangue: Uma Noite de Sangue
+      </p>
+    </div>
+
     <img
       class="capa"
       src="~/assets/img/A Gangue.jpg"

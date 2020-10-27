@@ -1,5 +1,12 @@
 <template>
   <div class="filme">
+    <div class="navegacao">
+      <p>
+        <NuxtLink class="navegacao" to="/">Início</NuxtLink> >
+        <NuxtLink class="navegacao" to="/poster">Filmes em cartaz</NuxtLink> >
+        Sangue de Pelicano
+      </p>
+    </div>
     <img
       class="capa"
       src="~/assets/img/Sangue de Pelicano.jpg"
