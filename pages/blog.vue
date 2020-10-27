@@ -13,8 +13,8 @@
           img-top
         >
           <b-card-text>
-            A Netflix Brasil posta em seu twitter um video de apenas 10 segundos
-            anunciando a nova serie original que entrara futuramente em seu
+            A Netflix Brasil posta em seu twitter um vídeo de apenas 10 segundos
+            anunciando a nova série original que entrara futuramente em seu
             catálogo.
           </b-card-text>
           <b-button class="btn" variant="Primary"
