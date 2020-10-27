@@ -8,6 +8,7 @@ const _70abef19 = () => interopDefault(import('..\\pages\\about.vue' /* webpackC
 const _11064974 = () => interopDefault(import('..\\pages\\blog.vue' /* webpackChunkName: "pages/blog" */))
 const _22212b48 = () => interopDefault(import('..\\pages\\escolhida.vue' /* webpackChunkName: "pages/escolhida" */))
 const _2f3c33ab = () => interopDefault(import('..\\pages\\morte_subita_2.vue' /* webpackChunkName: "pages/morte_subita_2" */))
+const _2f7fea54 = () => interopDefault(import('..\\pages\\noticia-netflix.vue' /* webpackChunkName: "pages/noticia-netflix" */))
 const _5d86ef1e = () => interopDefault(import('..\\pages\\poster.vue' /* webpackChunkName: "pages/poster" */))
 const _1d9ff9ea = () => interopDefault(import('..\\pages\\sangue_de_pelicano.vue' /* webpackChunkName: "pages/sangue_de_pelicano" */))
 const _0c127873 = () => interopDefault(import('..\\pages\\tickets.vue' /* webpackChunkName: "pages/tickets" */))
@@ -49,6 +50,10 @@ export const routerOptions = {
     path: "/morte_subita_2",
     component: _2f3c33ab,
     name: "morte_subita_2"
+  }, {
+    path: "/noticia-netflix",
+    component: _2f7fea54,
+    name: "noticia-netflix"
   }, {
     path: "/poster",
     component: _5d86ef1e,

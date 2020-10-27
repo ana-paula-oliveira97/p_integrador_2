@@ -94,8 +94,13 @@ body {
   border: green 1px solid;
 }
 
+.btn {
+  border: green 1px solid;
+  align-items: right;
+}
+
 .botao :hover {
-  text-decoration: none;
+  align-items: none;
 }
 
 .facebook {
@@ -127,4 +132,23 @@ body {
 .navegacao p {
   margin: 6px;
   font-size: 15px;
+}
+
+.twitter-tweet {
+  margin: 350px;
+}
+
+.noticia h1 {
+  margin: 10px;
+}
+
+.noticia p {
+  margin: 10px;
+}
+
+.banner-noticia {
+  text-align: center;
+  width: 95%;
+  height: 300px;
+  margin: 10px;
 }
