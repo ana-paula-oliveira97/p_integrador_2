@@ -1,42 +1,44 @@
 <template>
+<form id="formExemplo" data-toggle="validator" role="form">	
   <div class="form">
     <div class="navegacao">
       <p>
         <NuxtLink class="navegacao" to="/">Início</NuxtLink> > Reserve seu lugar
       </p>
     </div>
-    <b-form-group id="input-group-1" label="Nome:" label-for="input-2">
-      <b-form-input id="input-1" v-model="form.name" required></b-form-input>
-    </b-form-group>
-
-    <b-form-group
-      id="input-group-2"
-      label="Quantidade de Pessoas:"
-      label-for="input-2"
-    >
-      <b-form-input id="input-2" v-model="form.name" required></b-form-input>
-    </b-form-group>
-
-    <b-form-group id="input-group-3" label="Filmes:" label-for="input-3">
-      <b-form-select
-        id="input-3"
-        v-model="form.food"
-        :options="foods"
-        required
-      ></b-form-select>
-    </b-form-group>
-
-    <b-form-group id="input-group-4" label="Filme em 3D:" label-for="input-4">
+  <div class="form">
+      <label for="validationCustom01">Nome:</label>
+      <input type="text" class="form-control" id="validationCustom01" required>
+        </div>
+    <div class="form">
+      <label for="validationCustom02">Quantidade de Pessoas:</label>
+      <input type="text" class="form-control" id="validationCustom02" required>
+       </div>
+    <div class="form">
+   <select class="custom-select">
+  <option selected>Selecione um Filme:</option>
+  <option value="1">Escolhida</option>
+  <option value="2">Morte Súbita 2</option>
+  <option value="3">A Gangue: Uma noite de sangue</option>
+  <option value="4">Sangue Pelicano</option>
+</select>
+      </div>
+  <div class="form">
+    <b-form-group id="input-group-4" label="Deseja assitir em 3D:" label-for="input-4">
       <b-form-checkbox-group v-model="form.checked" id="checkboxes-4">
-        <b-form-checkbox value="me">Sim</b-form-checkbox>
-        <b-form-checkbox value="that">Não</b-form-checkbox>
+        
       </b-form-checkbox-group>
-    </b-form-group>
+      <label>	        
+        <input type="checkbox" data-error="Você deve marcar este campo!" required> Sim</label>
+        <input type="checkbox" data-error="Você deve marcar este campo!" required><label> Não </label>
 
+    </b-form-group>
+    </div>
     <b-button type="submit" variant="primary">Enviar</b-button>
-    <b-button type="reset" variant="danger">Cancelar</b-button>
   </div>
+</form>
 </template>
+
 <script>
 export default {
   data() {
