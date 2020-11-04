@@ -159,7 +159,50 @@ body {
   margin: 10px;
 }
 
-@media (min-width: 350px){
+
+@media (max-width: 700px){
+    .atores{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+  }
+    .card{
+    display: grid;
+    grid-template-columns: 300px 300px;
+
+}
+
+}
+@media (max-width: 600px){
+    .atores{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+}
+
+@media (max-width: 500px){
+  .card{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+    .atores{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+  }
+}
+
+
+
+@media (max-width: 460px){
     .atores{
     display: flex;
     flex-wrap: wrap;
@@ -169,8 +212,10 @@ body {
   }
   .trailer{
    text-align: left; 
-   //height: 50px;
    margin: 5px;
-
+}
+  .card{
+    display: grid;
+    grid-template-columns: 170px 170px;
 }
 }
