@@ -158,3 +158,19 @@ body {
   height: 300px;
   margin: 10px;
 }
+
+@media (min-width: 350px){
+    .atores{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+  }
+  .trailer{
+   text-align: left; 
+   //height: 50px;
+   margin: 5px;
+
+}
+}
