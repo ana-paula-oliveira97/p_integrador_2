@@ -2,16 +2,22 @@
   {
     "name": "a_gangue",
     "path": "/a_gangue",
+
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\a_gangue.vue",
     "chunkName": "pages/a_gangue",
     "_name": "_e3f5f8c4"
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\a_gangue.vue",
+    "chunkName": "pages/a_gangue"
   },
   {
     "name": "about",
     "path": "/about",
+
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\about.vue",
     "chunkName": "pages/about",
     "_name": "_5b8db3c0"
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
   },
   {
     "name": "blog",
@@ -19,54 +25,78 @@
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\blog.vue",
     "chunkName": "pages/blog",
     "_name": "_22e73482"
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog"
   },
   {
     "name": "escolhida",
     "path": "/escolhida",
+
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\escolhida.vue",
     "chunkName": "pages/escolhida",
     "_name": "_54808383"
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\escolhida.vue",
+    "chunkName": "pages/escolhida"
+
   },
   {
     "name": "morte_subita_2",
     "path": "/morte_subita_2",
+
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\morte_subita_2.vue",
     "chunkName": "pages/morte_subita_2",
     "_name": "_f0008a38"
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\morte_subita_2.vue",
+    "chunkName": "pages/morte_subita_2"
   },
   {
     "name": "noticia-netflix",
     "path": "/noticia-netflix",
+
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\noticia-netflix.vue",
     "chunkName": "pages/noticia-netflix",
     "_name": "_b0252a86"
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\noticia-netflix.vue",
+    "chunkName": "pages/noticia-netflix"
   },
   {
     "name": "poster",
     "path": "/poster",
+
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\poster.vue",
     "chunkName": "pages/poster",
     "_name": "_429358aa"
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\poster.vue",
+    "chunkName": "pages/poster"
   },
   {
     "name": "sangue_de_pelicano",
     "path": "/sangue_de_pelicano",
+
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\sangue_de_pelicano.vue",
     "chunkName": "pages/sangue_de_pelicano",
     "_name": "_bc097478"
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\sangue_de_pelicano.vue",
+    "chunkName": "pages/sangue_de_pelicano"
   },
   {
     "name": "tickets",
     "path": "/tickets",
+
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\tickets.vue",
     "chunkName": "pages/tickets",
     "_name": "_74d4a14c"
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\tickets.vue",
+    "chunkName": "pages/tickets"
   },
   {
     "name": "index",
     "path": "/",
+
     "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
     "_name": "_7b458e85"
+    "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]
