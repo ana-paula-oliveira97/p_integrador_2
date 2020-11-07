@@ -89,4 +89,3 @@ export default {
 </script>
 
 
-<NuxtLink class="navegacao" to="/">Início</NuxtLink> > Reserve seu lugar
