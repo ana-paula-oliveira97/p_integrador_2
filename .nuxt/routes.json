@@ -2,61 +2,101 @@
   {
     "name": "a_gangue",
     "path": "/a_gangue",
+<<<<<<< HEAD
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\a_gangue.vue",
+=======
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\a_gangue.vue",
+>>>>>>> parent of 2c0040c4... tickets.vue
     "chunkName": "pages/a_gangue"
   },
   {
     "name": "about",
     "path": "/about",
+<<<<<<< HEAD
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\about.vue",
+=======
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\about.vue",
+>>>>>>> parent of 2c0040c4... tickets.vue
     "chunkName": "pages/about"
   },
   {
     "name": "blog",
     "path": "/blog",
+<<<<<<< HEAD
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\blog.vue",
+=======
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\blog.vue",
+>>>>>>> parent of 2c0040c4... tickets.vue
     "chunkName": "pages/blog"
   },
   {
     "name": "escolhida",
     "path": "/escolhida",
+<<<<<<< HEAD
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\escolhida.vue",
+=======
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\escolhida.vue",
+>>>>>>> parent of 2c0040c4... tickets.vue
     "chunkName": "pages/escolhida"
   },
   {
     "name": "morte_subita_2",
     "path": "/morte_subita_2",
+<<<<<<< HEAD
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\morte_subita_2.vue",
+=======
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\morte_subita_2.vue",
+>>>>>>> parent of 2c0040c4... tickets.vue
     "chunkName": "pages/morte_subita_2"
   },
   {
     "name": "noticia-netflix",
     "path": "/noticia-netflix",
+<<<<<<< HEAD
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\noticia-netflix.vue",
+=======
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\noticia-netflix.vue",
+>>>>>>> parent of 2c0040c4... tickets.vue
     "chunkName": "pages/noticia-netflix"
   },
   {
     "name": "poster",
     "path": "/poster",
+<<<<<<< HEAD
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\poster.vue",
+=======
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\poster.vue",
+>>>>>>> parent of 2c0040c4... tickets.vue
     "chunkName": "pages/poster"
   },
   {
     "name": "sangue_de_pelicano",
     "path": "/sangue_de_pelicano",
+<<<<<<< HEAD
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\sangue_de_pelicano.vue",
+=======
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\sangue_de_pelicano.vue",
+>>>>>>> parent of 2c0040c4... tickets.vue
     "chunkName": "pages/sangue_de_pelicano"
   },
   {
     "name": "tickets",
     "path": "/tickets",
+<<<<<<< HEAD
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\tickets.vue",
+=======
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\tickets.vue",
+>>>>>>> parent of 2c0040c4... tickets.vue
     "chunkName": "pages/tickets"
   },
   {
     "name": "index",
     "path": "/",
+<<<<<<< HEAD
     "component": "D:\\\\github\\\\p_integrador_2\\\\pages\\\\index.vue",
+=======
+    "component": "C:\\\\Users\\\\maria\\\\Desktop\\\\Site Cinemec\\\\p_integrador_2\\\\pages\\\\index.vue",
+>>>>>>> parent of 2c0040c4... tickets.vue
     "chunkName": "pages/index"
   }
 ]

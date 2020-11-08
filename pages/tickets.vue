@@ -3,46 +3,39 @@
   <div class="form">
     <div class="navegacao">
       <p>
-        
+        <NuxtLink class="navegacao" to="/">Início</NuxtLink> > Reserve seu lugar
       </p>
     </div>
   <div class="form">
-      <label for="validationCustom01" >Nome:</label>
-      <b-form-input 
-          id = "input-2" 
-          v-model = " form.name " 
-          required 
-          placeholder = " Digite o nome " 
-        > </b-form-input > 
+      <label for="validationCustom01">Nome:</label>
+      <input type="text" class="form-control" id="validationCustom01" required>
         </div>
     <div class="form">
       <label for="validationCustom02">Quantidade de Pessoas:</label>
-       <b-form-input 
-          id = "input-1" 
-          v-model = " form.qtdade " 
-          required 
-          placeholder = " Digite a quantidade  " 
-        > </b-form-input > 
+      <input type="text" class="form-control" id="validationCustom02" required>
        </div>
+    <div class="form">
+   <select class="custom-select">
+  <option selected>Selecione um Filme:</option>
+  <option value="1">Escolhida</option>
+  <option value="2">Morte Súbita 2</option>
+  <option value="3">A Gangue: Uma noite de sangue</option>
+  <option value="4">Sangue Pelicano</option>
+</select>
+      </div>
+  <div class="form">
+    <b-form-group id="input-group-4" label="Deseja assitir em 3D:" label-for="input-4">
+      <b-form-checkbox-group v-model="form.checked" id="checkboxes-4">
+        
+      </b-form-checkbox-group>
+      <label>	        
+        <input type="checkbox" data-error="Você deve marcar este campo!" required> Sim</label>
+        <input type="checkbox" data-error="Você deve marcar este campo!" required><label> Não </label>
 
-     <b-form-group  id = "input-group-3"  label = "filme:"  label-for = "input-3" > 
-        <b-form-select 
-          id = "input-3" 
-          v-model = "formulário .filme " 
-          : options = " filmes " 
-          required 
-        > </b-form-select > 
-      </b-form-group >
-
-      <b-form-group  id = "input-group-4" > 
-        <b-form-checkbox-group  v-model = "form.checked"  id = "checkboxes-4" > 
-          <b-form-checkbox  value = " yes " > Sim </b-form-checkbox > 
-          <b-form-checkbox  value = " not " > Não </b-form-checkbox > 
-        </b-form-checkbox-group > 
-      </b-form-group >
+    </b-form-group>
     </div>
     <b-button type="submit" variant="primary">Enviar</b-button>
-  
+  </div>
 </form>
 </template>
 
@@ -52,11 +45,11 @@ export default {
     return {
       form: {
         name: "",
-        qtdade: "",
-        filme: null,
+        name: "",
+        food: null,
         checked: [],
       },
-      filmes: [
+      foods: [
         { text: "Selecione", value: null },
         "Escolhida",
         "Morte Súbita 2",
@@ -74,9 +67,9 @@ export default {
     onReset(evt) {
       evt.preventDefault();
       // Reset our form values
+      this.form.email = "";
       this.form.name = "";
-      this.form.qtdade = "";
-      this.form.filme = null;
+      this.form.food = null;
       this.form.checked = [];
       // Trick to reset/clear native browser form validation state
       this.show = false;
@@ -85,7 +78,10 @@ export default {
       });
     },
   },
-}; 
+};
 </script>
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of 2c0040c4... tickets.vue
