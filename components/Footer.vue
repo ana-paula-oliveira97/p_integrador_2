@@ -51,4 +51,5 @@ export default {
 
 <style>
 @import "../assets/css/estilo.min.css";
-</style>;
+</style>
+
